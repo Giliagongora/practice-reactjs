@@ -1,0 +1,19 @@
+ul.TodoList{
+    margin: 0;
+    padding: 0;
+}
+.TodoList {
+    list-style: none;
+}
+
+.TodoList li{
+    margin: auto auto 10px;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    background-color: #f1f6ff;
+}
+
+.TodoList p{
+    display: inline-block;
+}

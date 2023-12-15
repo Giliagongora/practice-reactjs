@@ -1,0 +1,21 @@
+.CreateTodoButton {
+    position: absolute;
+    right: 10px;
+    background-color: #1b5fffa3;
+    border: none;
+    border-radius: 50%;
+    font-size: 80px;
+    color: white;
+    height: 60px;
+    width: 60px;
+    line-height: 0.6;
+    transition: all 1s;
+    z-index: 1;
+}
+
+.CreateTodoButton:hover {
+    transition: ease-in-out transform 1s;
+    transform: rotate(360deg);
+    line-height: 0.6;
+    transition-timing-function: ease-in-out;
+}
