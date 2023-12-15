@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/practice-reactjs/static/css/main.74725c74.css",
+    "main.js": "/practice-reactjs/static/js/main.59604579.js",
+    "index.html": "/practice-reactjs/index.html",
+    "static/media/delete.svg": "/practice-reactjs/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
+    "static/media/check.svg": "/practice-reactjs/static/media/check.38f596e64d38d54463f988385b633c05.svg",
+    "main.74725c74.css.map": "/practice-reactjs/static/css/main.74725c74.css.map",
+    "main.59604579.js.map": "/practice-reactjs/static/js/main.59604579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74725c74.css",
+    "static/js/main.59604579.js"
+  ]
+}
